@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
   name = 'akmath',        
   packages = ['akmath'],   
-  version = '1.0',      
+  version = '1.0.0',      
   license='MIT',              
 description = 'liabrary to check Armgstrong,prime,palindrome number and palindrome String',   
   author = 'Abhijeet Khatri',                   
