@@ -12,6 +12,7 @@ description = 'liabrary to check Armgstrong,prime,palindrome number and palindro
   url = 'https://github.com/AbhijeetJK/akmath.git',
 download_url ='https://github.com/AbhijeetJK/akmath/archive/1.0.0.tar.gz',
   
+  
   keywords = ['math', 'armgstrong', 'palindrome','prime'],   
   install_requires=[            
           'akmath',
