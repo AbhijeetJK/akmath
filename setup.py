@@ -6,7 +6,7 @@ setup(
   packages = ['akmath'],   
   version = '1.0',      
   license='MIT',              
-description = 'liabrary to check Armgstrong,prime,palindrome numbera and palindrome String',   
+description = 'liabrary to check Armgstrong,prime,palindrome number and palindrome String',   
   author = 'Abhijeet Khatri',                   
   author_email = 'abhijeetkhatri@gmail.com',      
   url = 'https://github.com/AbhijeetJK/akmath.git',
